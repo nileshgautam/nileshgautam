@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilesh Gautam
-- 👀 I’m interested in Webdevelpment.
+- 👀 I’m interested in Web develpment.
 - 🌱 I’m currently learning MERN Develpment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ngautam18@gmail.com
