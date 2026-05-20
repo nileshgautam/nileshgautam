@@ -72,6 +72,43 @@ Passionate about scalable architecture, backend performance optimization, and bu
 ![Nilesh's GitHub stats]([https://github-readme-stats.vercel.app/api?username=nileshgautam&show_icons=true&theme=tokyonight](https://github.com/nileshgautam))
 
 
+## 🚀 Featured Projects
+
+### 🔹 Movie App
+A modern movie browsing application built with React.js.
+
+- 🎬 Search and filter movies
+- ⭐ Movie ratings and categories
+- 📱 Responsive UI
+
+**Tech Stack:** React.js, CSS, JavaScript
+
+🔗 Live Demo: (https://movies-interface-nilesh.vercel.app/)
+🔗 GitHub Repo: (https://github.com/nileshgautam/react-tute/tree/4c7fe6c3844353eda4fd8e923681b21dc2915296/movie-database-interface)
+
+---
+
+### 🔹 HRMS Backend System
+Scalable HRMS backend with authentication and employee management.
+
+- 🔐 JWT Authentication
+- 👥 Employee & Role Management
+- 📊 RESTful APIs
+
+**Tech Stack:** Node.js, Laravel, MySQL
+
+
+---
+
+### 🔹 Fintech Payment Integration
+Backend APIs for secure payment processing and financial verification.
+
+- 💳 Stripe Integration
+- 🔒 Secure Transactions
+- ⚡ Optimized APIs
+
+**Tech Stack:** Node.js, MySQL, Stripe API
+
 ---
 
 ## 📫 Connect With Me
